@@ -1,4 +1,5 @@
-WordPress - Web publishing software
+WordPress
+ - Web publishing software
 
 Copyright 2011-2020 by the contributors
 
